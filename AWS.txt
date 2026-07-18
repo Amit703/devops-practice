@@ -1,0 +1,9 @@
+Git 
+-Collaboration
+-Teamwork
+-Versioning means new releases
+-Branch
+
+git config --global user.name "Amit"
+git config --global user.email "Amit@gmail.com"
+to check hidden files - ls -a
